@@ -1,0 +1,23 @@
+.hero {
+
+    .ikkitalik {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
+
+        h1 {
+            font-family: sans-serif;
+            font-size: 72px;
+            font-weight: 500;
+            color: #141718;
+        }
+
+        h3 {
+            margin-top: 70px;
+            font-family: sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            color: #6C7275;
+        }
+    }
+}
